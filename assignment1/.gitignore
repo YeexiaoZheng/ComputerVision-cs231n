@@ -1,0 +1,10 @@
+*.swp
+*.pyc
+.env/*
+*.ipynb_checkpoints/*
+
+/daseCV/datasets/cifar-10-batches-py/**
+/daseCV/datasets/cifar-10-python.tar.gz
+
+# gitignore the built release.
+assignment3/*
